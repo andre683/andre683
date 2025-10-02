@@ -1,6 +1,6 @@
 # Hi, I'm Andre 👋
 
-I’m a Analytics Engineer focused on **BigQuery, GA4, and Dataform**.  
+I’m a Analytics Engineer focused on **BigQuery, Google Analytics, and Dataform**.  
 On this profile, you’ll find both personal projects and professional-style data engineering work.
 
 ---
