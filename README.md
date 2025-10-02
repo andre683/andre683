@@ -28,7 +28,7 @@ On this profile, you’ll find both personal projects and professional data engi
 - [**andrebuilds**](https://github.com/andre683/andrebuilds)  
   Portfolio website for personal projects, built with HTML & CSS.  
 
-- More coming soon 🚧 — experimenting with **SQL, dbt/Dataform, and Python**.
+- More coming soon 🚧
 
 ---
 
