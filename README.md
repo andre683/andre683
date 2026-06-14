@@ -7,13 +7,9 @@ On this profile, you’ll find both personal projects and professional data engi
 
 ## 🚀 Featured Projects
 
-- [**analytics_unified**](https://github.com/andre-arias-dwi/analytics_unified)  
+- [**analytics_unified**](https://github.com/andre683/analytics_unified)  
   Centralized Dataform repo integrating GA4 BigQuery exports with internal reports at Direct Wines Inc.  
   *Tech: BigQuery, Dataform, SQL, Google Analytics*
-
-- [**dwi-analytics**](https://github.com/andre-arias-dwi/dwi-analytics)  
-  A centralized documentation hub for tracking and understanding internal data pipelines and Google Tag Manager (GTM) implementations.  
-  *Tech: JavaScript, Python, Google Tag Manager, GCP Data Pipelines*
 
 ---
 
@@ -33,7 +29,7 @@ On this profile, you’ll find both personal projects and professional data engi
 ---
 
 ## 🌱 Currently Learning
-- Advanced SQL, Python Basics & Data Engineering best practices  
+- Python & Data Engineering
 - dbt (to complement Dataform)  
 - GCP services for data pipelines  
 
