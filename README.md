@@ -7,7 +7,7 @@ On this profile, you’ll find both personal projects and professional data engi
 
 ## 🚀 Featured Projects
 
-- [**analytics_unified**](https://github.com/andre683/analytics_unified)  
+- [**analytics_unified**](https://github.com/andre683/dataform-ga4-patterns)  
   Centralized Dataform repo integrating GA4 BigQuery exports with internal reports at Direct Wines Inc.  
   *Tech: BigQuery, Dataform, SQL, Google Analytics*
 
