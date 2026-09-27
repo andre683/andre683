@@ -1,41 +1,24 @@
 # Hi, I'm Andre 👋
 
-I’m an Analytics Engineer focused on **BigQuery, Google Analytics, and Dataform**.  
-On this profile, you’ll find both personal projects and professional data engineering work.
+Analytics engineer building GA4-to-BigQuery pipelines, models, and reporting layers. I own the full stack end to end at Direct Wines, and this is where I keep generalized patterns from that work plus stuff I'm exploring on my own.
+
+**Core stack:** BigQuery · SQL · Dataform · Python
+
+**Currently exploring:** dbt, Airflow orchestration patterns
 
 ---
 
-## 🚀 Featured Projects
+## Selected work
 
-- [**dataform-ga4-patterns**](https://github.com/andre683/dataform-ga4-patterns)  
-  Centralized Dataform repo integrating GA4 BigQuery exports with internal reports at Direct Wines Inc.  
-  *Tech: BigQuery, Dataform, SQL, Google Analytics*
+- [**dataform-ga4-patterns**](https://github.com/andre683/dataform-ga4-patterns)
+  Clean-room patterns from a production Dataform project unifying GA4 data across multiple ecommerce brands into one BigQuery warehouse. Config-driven brand modeling, incremental backfill via compilation variables, idempotency gate assertions.
 
----
+- [**andrebuilds**](https://github.com/andre683/andrebuilds)
+  Portfolio site with case studies on the pipeline work above. [Live here](https://andrebuilds.com)
 
-## 🛠 Personal Projects
-
-- [**BigQuery-GA4-SQL**](https://github.com/andre683/Bigquery-GA4-SQL)  
-  SQL snippets and experiments for GA4 → BigQuery analysis.
-
-- [**sql-projects**](https://github.com/andre683/sql-projects)  
-  Practice SQL problems and query patterns demonstrating analytics and data engineering fundamentals.  
-
-- [**andrebuilds**](https://github.com/andre683/andrebuilds)  
-  Portfolio website for personal projects, built with HTML & CSS.  
-
-- More coming soon 🚧
+- [**sql-projects**](https://github.com/andre683/sql-projects)
+  SQL practice problems and query patterns.
 
 ---
 
-## 🌱 Currently Learning
-- Python & Data Engineering
-- dbt (to complement Dataform)  
-- GCP services for data pipelines  
-
----
-
-## 📫 Connect with Me
-- Personal site: [andrebuilds.com](#)
-- LinkedIn: [linkedin.com/in/augustoarias](#)
-
+📫 [andrebuilds.com](https://andrebuilds.com) · [LinkedIn](https://www.linkedin.com/in/augustoarias/)
